@@ -8,8 +8,7 @@ A lightweight Python utility to download media files from **YouTube**, **TikTok*
 - Automatically organizes downloads into a local `downloads/` directory.
 
 ## Installation
-
 1. Clone this repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/joratheboi2011-beep/nyan-video-downloader.git](https://github.com/joratheboi2011-beep/nyan-video-downloader.git)
+cd nyan-video-downloader/video_downloader
