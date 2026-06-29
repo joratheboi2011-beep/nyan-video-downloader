@@ -12,3 +12,5 @@ A lightweight Python utility to download media files from **YouTube**, **TikTok*
 ```bash
 git clone [https://github.com/joratheboi2011-beep/nyan-video-downloader.git](https://github.com/joratheboi2011-beep/nyan-video-downloader.git)
 cd nyan-video-downloader/video_downloader
+
+Note: If you don't see a downloaded file, type 'pwd' and you will see a GitHub repo installed. Example: C:\Users\YourName\nyan-video-downloader\video_downloader\downloads
