@@ -1,4 +1,5 @@
 # Nyan Video Downloader
+[!Follow on X(https://img.shields.io/badge/follow-on?logo=x)](https://x.com/jora1mmws)
 
 A lightweight Python utility to download media files from **YouTube**, **TikTok**, **Douyin**, and **Discord CDN** attachments.
 
